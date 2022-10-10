@@ -1,0 +1,19 @@
+1 add -18.101683 65.679590 Gudmundur
+2 query-largest
+5 add 136.990645 35.210104 Meiko
+6 add 137.023978 35.037220 Kaji
+7 add 137.023978 35.037220 Hako
+9 delete Kaji
+10 query-largest
+11 add 137.023978 35.037220 Yamasaki
+13 query-largest
+14 add 3.380772 36.715643 Idir
+16 add -8.101618 54.654221 Eithne
+17 add 18.071575 53.088710 Cicha
+19 add 18.071575 53.088710 Palyga
+21 delete Cicha
+23 query-largest
+25 delete Gudmundur
+26 query-largest
+29 delete Idir
+32 query-largest
